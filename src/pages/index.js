@@ -7,7 +7,7 @@ const Desktop1 = () => {
       <img
         className="absolute top-[88px] left-[0px] w-full h-[936px] object-cover"
         alt=""
-        src="/muscularyoungmanliftingweightsblackbackground-1@2x.png"
+        src="/hero.png"
       />
       <div className="absolute top-[485px] left-[60px] font-medium text-dimgray">
         Email
